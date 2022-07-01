@@ -1,12 +1,12 @@
 <div align="center">
-    <h1>Ei, obrigado pela sua visita! 🖖🏿</h1>
+    <h1>Olá, Seja Bem Vindo!</h1>
 </div>
 
 <div>
     <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
     <div align="left"><br>
 	<p>📌 Desenvolverdor com conhecimento aplicados a projetos pessoais com foco em aprendizado e ganho de experiência. Dominando o uso das técnologias <strong> Back-End</strong> com o uso do <strong>.NETCORE</strong>, sempre buscando novos conhecimentos e técnologias.</p>
-        <p>🧠 Conhecimentos:<strong>C#</strong>, <strong>.NETCORE</strong>, <strong>API Rest</strong>, <strong>MVC</strong>, <strong>DDD</strong>, <strong>SQL Server</strong>, <strong>Oracle</strong>, <strong>Azure</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
+        <p>🧠 Conhecimentos: <strong>C#</strong>, <strong>.NETCORE</strong>, <strong>API Rest</strong>, <strong>MVC</strong>, <strong>DDD</strong>, <strong>SQL Server</strong>, <strong>Oracle</strong>, <strong>Azure</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>Git</strong> e <strong>GitHub</strong>.</p>
         <p>📚 Estou sempre em constante aprendizagem e evolução. No momento, estou aberto à novas oportunidades.<p>
         <p>💌 Sinta-se à vontade para me enviar uma mensagem.</p>
         <p align="left">
