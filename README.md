@@ -21,7 +21,6 @@
     <h1 align="center">GitHub Analytics ⚙️</h1>
 <div align="center">
   <a href="https://github.com/FelipeMunizz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeMunizz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=8844EE&icon_color=8844EE&border_color=8844EE"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMunizz&layout=compact&langs_count=7&theme=dracula&title_color=8844EE&icon_color=8844EE&border_color=8844EE"/>
 </div>
 
